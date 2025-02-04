@@ -93,7 +93,6 @@ img{
 
 .card:hover .content{
     height: 280px;
-    /* clip-path: circle(170px at 50% 10%); */
 }
 
 h2{
